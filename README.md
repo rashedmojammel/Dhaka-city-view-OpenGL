@@ -4,7 +4,6 @@ A comprehensive animated city simulation showcasing Dhaka's urban landscape with
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-blue)
 ![C++](https://img.shields.io/badge/C++-11-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
 
 ---
 
