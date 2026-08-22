@@ -1,6 +1,6 @@
 # 🏙️ Dhaka City Simulation - OpenGL
 
-A comprehensive animated city simulation showcasing Dhaka's urban landscape with dynamic weather, day/night cycles, and realistic traffic flow.
+A comprehensive animated city simulation showcasing Dhaka's urban landscape with dynamic weather, day/night cycles, and realistic traffic flow!
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-blue)
 ![C++](https://img.shields.io/badge/C++-11-green)
